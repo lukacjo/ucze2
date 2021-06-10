@@ -30,3 +30,4 @@ while True:
 print("liczby podzielne przez 5:",licz)
 print("potęgi ^3 liczb podzielnych przez 5:",poteg)
 print("uwielbiam lasagne")
+print("ale czy burger nie jest lepszy?")
