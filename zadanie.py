@@ -29,17 +29,3 @@ while True:
         break
 print("liczby podzielne przez 5:",licz)
 print("potęgi ^3 liczb podzielnych przez 5:",poteg)
-print("uwielbiam lasagne")
-print("ale czy burger nie jest lepszy?")
-print("co do chuja")
-print("patrz!")
-print("testowanie gałęzi kolejny raz")
-
-while True:
-    m=i*5
-    licz.append(m)
-    i=i+1
-    j=m**3
-    poteg.append(j)
-    if m >=100:
-        break
